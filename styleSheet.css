@@ -2,7 +2,14 @@ body {
     font:helvetica, arial, sans-serif;
     margin:0em;
 }
-h1 {
-    font-style: italic;
-    color:#000237;
-}
+
+
+.cover {
+    height: 400px;
+    color: white;
+    background-image: url(rumman-amin-IFBu75dwGJs-unsplash (1).jpg);
+    background-size: cover;
+    background-position:center;
+    background-color: rgba(0,0,0, 0.30);
+    background-blend-mode: darken;
+}   
