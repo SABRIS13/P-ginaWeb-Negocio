@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6{
 .cover {
     height: 400px;
     color: white;
-    background-image: url(https://images.unsplash.com/photo-1588580000645-4562a6d2c839?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-image: url('./images/portada.jpg');
     background-size: cover;
     background-position:center;
     background-color: rgba(0,0,0, 0.60);
