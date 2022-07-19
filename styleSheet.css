@@ -86,6 +86,14 @@ p{
 }
 
 
+.avatar{
+  width: 100px;
+  height: 100px;
+  background-size:cover;
+  background-position: center;
+  margin: o auto;
+}
+
 @keyframes slider {
     0% {
       transform: translateX(0);
@@ -121,3 +129,4 @@ p{
       transform: translateX(0%);
     }
   }
+
